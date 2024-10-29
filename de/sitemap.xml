@@ -2,115 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/de/ansatz/</loc>
+    <loc>https://andriwild.github.io/mitwelten-preview/de/ansatz/</loc>
     <lastmod>2024-10-25T13:55:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/ansatz/"
+                href="https://andriwild.github.io/mitwelten-preview/ansatz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/ansatz/"
+                href="https://andriwild.github.io/mitwelten-preview/de/ansatz/"
                 />
   </url><url>
-    <loc>/de/categories/</loc>
+    <loc>https://andriwild.github.io/mitwelten-preview/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://andriwild.github.io/mitwelten-preview/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/"
+                href="https://andriwild.github.io/mitwelten-preview/de/categories/"
                 />
   </url><url>
-    <loc>/de/fieldstudies/dreispitz/</loc>
+    <loc>https://andriwild.github.io/mitwelten-preview/de/fieldstudies/dreispitz/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/fieldstudies/dreispitz/"
+                href="https://andriwild.github.io/mitwelten-preview/fieldstudies/dreispitz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/fieldstudies/dreispitz/"
+                href="https://andriwild.github.io/mitwelten-preview/de/fieldstudies/dreispitz/"
                 />
   </url><url>
-    <loc>/de/fieldstudies/</loc>
+    <loc>https://andriwild.github.io/mitwelten-preview/de/fieldstudies/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/fieldstudies/"
+                href="https://andriwild.github.io/mitwelten-preview/fieldstudies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/fieldstudies/"
+                href="https://andriwild.github.io/mitwelten-preview/de/fieldstudies/"
                 />
   </url><url>
-    <loc>/de/iot/</loc>
+    <loc>https://andriwild.github.io/mitwelten-preview/de/iot/</loc>
     <lastmod>2024-10-25T13:55:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/iot/"
+                href="https://andriwild.github.io/mitwelten-preview/iot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/iot/"
+                href="https://andriwild.github.io/mitwelten-preview/de/iot/"
                 />
   </url><url>
-    <loc>/de/fieldstudies/meriangardens/</loc>
+    <loc>https://andriwild.github.io/mitwelten-preview/de/fieldstudies/meriangardens/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/fieldstudies/meriangardens/"
+                href="https://andriwild.github.io/mitwelten-preview/fieldstudies/meriangardens/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/fieldstudies/meriangardens/"
+                href="https://andriwild.github.io/mitwelten-preview/de/fieldstudies/meriangardens/"
                 />
   </url><url>
-    <loc>/de/</loc>
+    <loc>https://andriwild.github.io/mitwelten-preview/de/</loc>
     <lastmod>2024-10-25T13:55:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://andriwild.github.io/mitwelten-preview/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/"
+                href="https://andriwild.github.io/mitwelten-preview/de/"
                 />
   </url><url>
-    <loc>/de/fieldstudies/reinacherheide/</loc>
+    <loc>https://andriwild.github.io/mitwelten-preview/de/fieldstudies/reinacherheide/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/fieldstudies/reinacherheide/"
+                href="https://andriwild.github.io/mitwelten-preview/fieldstudies/reinacherheide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/fieldstudies/reinacherheide/"
+                href="https://andriwild.github.io/mitwelten-preview/de/fieldstudies/reinacherheide/"
                 />
   </url><url>
-    <loc>/de/tags/</loc>
+    <loc>https://andriwild.github.io/mitwelten-preview/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://andriwild.github.io/mitwelten-preview/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/"
+                href="https://andriwild.github.io/mitwelten-preview/de/tags/"
                 />
   </url>
 </urlset>
