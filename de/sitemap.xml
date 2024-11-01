@@ -2,105 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/de/ansatz/</loc>
+    <loc>/de/ansatz/</loc>
     <lastmod>2024-10-25T13:55:30+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/de/categories/</loc>
+    <loc>/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/categories/"
+                href="/de/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/de/fieldstudies/dreispitz/</loc>
+    <loc>/de/fieldstudies/dreispitz/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/fieldstudies/dreispitz/"
+                href="/fieldstudies/dreispitz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/fieldstudies/dreispitz/"
+                href="/de/fieldstudies/dreispitz/"
                 />
   </url><url>
-    <loc>//localhost:1313/de/fieldstudies/</loc>
+    <loc>/de/fieldstudies/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/fieldstudies/"
+                href="/fieldstudies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/fieldstudies/"
+                href="/de/fieldstudies/"
                 />
   </url><url>
-    <loc>//localhost:1313/de/iot/</loc>
-    <lastmod>2024-10-25T13:55:30+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/iot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/de/iot/"
-                />
-  </url><url>
-    <loc>//localhost:1313/de/fieldstudies/meriangardens/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/fieldstudies/meriangardens/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/de/fieldstudies/meriangardens/"
-                />
-  </url><url>
-    <loc>//localhost:1313/de/</loc>
+    <loc>/de/iot/</loc>
     <lastmod>2024-10-25T13:55:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="/iot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/"
+                href="/de/iot/"
                 />
   </url><url>
-    <loc>//localhost:1313/de/fieldstudies/reinacherheide/</loc>
+    <loc>/de/fieldstudies/meriangardens/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/fieldstudies/reinacherheide/"
+                href="/fieldstudies/meriangardens/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/fieldstudies/reinacherheide/"
+                href="/de/fieldstudies/meriangardens/"
                 />
   </url><url>
-    <loc>//localhost:1313/de/tags/</loc>
+    <loc>/de/</loc>
+    <lastmod>2024-10-25T13:55:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/tags/"
+                href="/de/"
+                />
+  </url><url>
+    <loc>/de/fieldstudies/reinacherheide/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/fieldstudies/reinacherheide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/fieldstudies/reinacherheide/"
+                />
+  </url><url>
+    <loc>/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/tags/"
                 />
   </url>
 </urlset>

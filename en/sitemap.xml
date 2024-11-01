@@ -2,115 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/approach/</loc>
+    <loc>/approach/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/categories/"
+                href="/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/interventions/communication_media/</loc>
+    <loc>/interventions/communication_media/</loc>
   </url><url>
-    <loc>//localhost:1313/fieldstudies/dreispitz/</loc>
+    <loc>/fieldstudies/dreispitz/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/fieldstudies/dreispitz/"
+                href="/de/fieldstudies/dreispitz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/fieldstudies/dreispitz/"
+                href="/fieldstudies/dreispitz/"
                 />
   </url><url>
-    <loc>//localhost:1313/interventions/ecosystem/</loc>
+    <loc>/interventions/ecosystem/</loc>
   </url><url>
-    <loc>//localhost:1313/fieldstudies/</loc>
+    <loc>/fieldstudies/</loc>
     <lastmod>2024-10-25T14:19:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/fieldstudies/"
+                href="/de/fieldstudies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/fieldstudies/"
+                href="/fieldstudies/"
                 />
   </url><url>
-    <loc>//localhost:1313/interventions/interspecies_platforms/</loc>
+    <loc>/interventions/interspecies_platforms/</loc>
   </url><url>
-    <loc>//localhost:1313/interventions/</loc>
+    <loc>/interventions/</loc>
   </url><url>
-    <loc>//localhost:1313/iot/</loc>
+    <loc>/iot/</loc>
     <lastmod>2024-10-25T13:55:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/iot/"
+                href="/de/iot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/iot/"
+                href="/iot/"
                 />
   </url><url>
-    <loc>//localhost:1313/fieldstudies/meriangardens/</loc>
+    <loc>/fieldstudies/meriangardens/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/fieldstudies/meriangardens/"
+                href="/de/fieldstudies/meriangardens/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/fieldstudies/meriangardens/"
+                href="/fieldstudies/meriangardens/"
                 />
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-10-25T13:55:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="/"
                 />
   </url><url>
-    <loc>//localhost:1313/interventions/participatory_installations/</loc>
+    <loc>/interventions/participatory_installations/</loc>
   </url><url>
-    <loc>//localhost:1313/fieldstudies/reinacherheide/</loc>
+    <loc>/fieldstudies/reinacherheide/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/fieldstudies/reinacherheide/"
+                href="/de/fieldstudies/reinacherheide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/fieldstudies/reinacherheide/"
+                href="/fieldstudies/reinacherheide/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/tags/"
+                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="/tags/"
                 />
   </url>
 </urlset>
