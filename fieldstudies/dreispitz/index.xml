@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dreispitz Areal on Mitwelten</title>
-    <link>/fieldstudies/dreispitz/</link>
+    <link>//localhost:1313/fieldstudies/dreispitz/</link>
     <description>Recent content in Dreispitz Areal on Mitwelten</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/fieldstudies/dreispitz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/fieldstudies/dreispitz/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
