@@ -2,115 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/approach/</loc>
+    <loc>/mitwelten-preview/approach/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/mitwelten-preview/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/categories/"
+                href="/mitwelten-preview/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="/mitwelten-preview/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/interventions/communication_media/</loc>
+    <loc>/mitwelten-preview/interventions/communication_media/</loc>
   </url><url>
-    <loc>//localhost:1313/fieldstudies/dreispitz/</loc>
+    <loc>/mitwelten-preview/fieldstudies/dreispitz/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/fieldstudies/dreispitz/"
+                href="/mitwelten-preview/de/fieldstudies/dreispitz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/fieldstudies/dreispitz/"
+                href="/mitwelten-preview/fieldstudies/dreispitz/"
                 />
   </url><url>
-    <loc>//localhost:1313/interventions/ecosystem/</loc>
+    <loc>/mitwelten-preview/interventions/ecosystem/</loc>
   </url><url>
-    <loc>//localhost:1313/fieldstudies/</loc>
+    <loc>/mitwelten-preview/fieldstudies/</loc>
     <lastmod>2024-10-25T14:19:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/fieldstudies/"
+                href="/mitwelten-preview/de/fieldstudies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/fieldstudies/"
+                href="/mitwelten-preview/fieldstudies/"
                 />
   </url><url>
-    <loc>//localhost:1313/interventions/interspecies_platforms/</loc>
+    <loc>/mitwelten-preview/interventions/interspecies_platforms/</loc>
   </url><url>
-    <loc>//localhost:1313/interventions/</loc>
+    <loc>/mitwelten-preview/interventions/</loc>
   </url><url>
-    <loc>//localhost:1313/iot/</loc>
+    <loc>/mitwelten-preview/iot/</loc>
     <lastmod>2024-10-25T13:55:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/iot/"
+                href="/mitwelten-preview/de/iot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/iot/"
+                href="/mitwelten-preview/iot/"
                 />
   </url><url>
-    <loc>//localhost:1313/fieldstudies/meriangardens/</loc>
+    <loc>/mitwelten-preview/fieldstudies/meriangardens/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/fieldstudies/meriangardens/"
+                href="/mitwelten-preview/de/fieldstudies/meriangardens/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/fieldstudies/meriangardens/"
+                href="/mitwelten-preview/fieldstudies/meriangardens/"
                 />
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/mitwelten-preview/</loc>
     <lastmod>2024-10-25T13:55:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/"
+                href="/mitwelten-preview/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="/mitwelten-preview/"
                 />
   </url><url>
-    <loc>//localhost:1313/interventions/participatory_installations/</loc>
+    <loc>/mitwelten-preview/interventions/participatory_installations/</loc>
   </url><url>
-    <loc>//localhost:1313/fieldstudies/reinacherheide/</loc>
+    <loc>/mitwelten-preview/fieldstudies/reinacherheide/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/fieldstudies/reinacherheide/"
+                href="/mitwelten-preview/de/fieldstudies/reinacherheide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/fieldstudies/reinacherheide/"
+                href="/mitwelten-preview/fieldstudies/reinacherheide/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/mitwelten-preview/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/tags/"
+                href="/mitwelten-preview/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="/mitwelten-preview/tags/"
                 />
   </url>
 </urlset>

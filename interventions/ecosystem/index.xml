@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ecosystem on Mitwelten</title>
-    <link>//localhost:1313/interventions/ecosystem/</link>
+    <link>/mitwelten-preview/interventions/ecosystem/</link>
     <description>Recent content in ecosystem on Mitwelten</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/interventions/ecosystem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/mitwelten-preview/interventions/ecosystem/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
